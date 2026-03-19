@@ -69,8 +69,8 @@ Ensure you have Python 3.8+ installed. You will also need LaTeX installed on you
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-research-paper-generator.git
-cd ai-research-paper-generator
+git clone https://github.com/virubot/ResearchPaper_Agent.git
+cd ResearchPaper_Agent
 ```
 
 ### 2. Install Python Dependencies
